@@ -1,0 +1,19 @@
+{
+  "subjects": [
+    { "id": "mathematics", "label": "Mathematics" },
+    { "id": "physics", "label": "Physics" },
+    { "id": "chemistry", "label": "Chemistry" },
+    { "id": "biology", "label": "Biology" },
+    { "id": "history/civics", "label": "History/Civics" },
+    { "id": "geography", "label": "Geography" },
+    { "id": "english1", "label": "English I" },
+    { "id": "english2", "label": "English 2" },
+    { "id": "hindi", "label": "Hindi" },
+    { "id": "kannada", "label": "Kannada" }
+  ],
+  "notes": [
+	{ "title": "Exercise 9.1", "subject": "mathematics", "topic": "Percentages", "date": "2026-09-01", "file": 	"pdfs/mathematics/percentages/exercise-9a.pdf" },
+	{ "title": "Exercise 9.2", "subject": "mathematics", "topic": "Percentages", "date": "2026-09-01", "file": 	"pdfs/mathematics/percentages/exercise-9b.pdf" },
+	{ "title": "Exercise 9.2", "subject": "mathematics", "topic": "Percentages", "date": "2026-09-01", "file": 	"pdfs/mathematics/percentages/exercise-9c.pdf" }
+]
+}
