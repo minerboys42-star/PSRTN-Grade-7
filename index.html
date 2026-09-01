@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Class Notes</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="site-head">
+  <div class="site-head__title">
+    <span class="site-head__mark">§</span>
+    <h1>Class Notes</h1>
+  </div>
+  <label class="search">
+    <span class="search__icon" aria-hidden="true"></span>
+    <input type="search" id="searchInput" placeholder="Search notes…" autocomplete="off">
+  </label>
+</header>
+
+<nav class="tabs" id="tabs" aria-label="Subjects"></nav>
+
+<main class="board">
+  <div class="board__head">
+    <h2 id="boardTitle">All subjects</h2>
+    <span class="board__count" id="boardCount"></span>
+  </div>
+
+  <ul class="notes" id="notesList"></ul>
+
+  <p class="empty" id="emptyState" hidden>No notes here yet.</p>
+</main>
+
+<footer class="site-foot">
+  <p>Notes are added directly to this site's files — see the project README if you're helping keep it updated.</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
