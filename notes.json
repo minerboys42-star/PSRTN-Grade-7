@@ -12,8 +12,14 @@
     { "id": "kannada", "label": "Kannada" }
   ],
   "notes": [
-	{ "title": "Exercise 9.1", "subject": "mathematics", "topic": "Percentages", "date": "2026-09-01", "file": 	"pdfs/mathematics/percentages/exercise-9a.pdf" },
-	{ "title": "Exercise 9.2", "subject": "mathematics", "topic": "Percentages", "date": "2026-09-01", "file": 	"pdfs/mathematics/percentages/exercise-9b.pdf" },
-	{ "title": "Exercise 9.2", "subject": "mathematics", "topic": "Percentages", "date": "2026-09-01", "file": 	"pdfs/mathematics/percentages/exercise-9c.pdf" }
+	{ "title": "Exercise 9A", "subject": "mathematics", "topic": "Percentages", "date": "2026-09-01", "file": 	"pdfs/mathematics/percentages/exercise-9a.pdf" },
+	{ "title": "Exercise 9B", "subject": "mathematics", "topic": "Percentages", "date": "2026-09-01", "file": 	"pdfs/mathematics/percentages/exercise-9b.pdf" },
+	{ "title": "Exercise 9C", "subject": "mathematics", "topic": "Percentages", "date": "2026-09-01", "file": 	"pdfs/mathematics/percentages/exercise-9c.pdf" },
+	{ "title": "Exercise 1A", "subject": "mathematics", "topic": "Integers", "date": "2026-09-01", "file": 	"pdfs/mathematics/integers/exercise_1a_solutions.pdf" },
+	{ "title": "Exercise 1B", "subject": "mathematics", "topic": "Integers", "date": "2026-09-01", "file": 	"pdfs/mathematics/integers/exercise_1b_solutions.pdf" },
+	{ "title": "Exercise 1C", "subject": "mathematics", "topic": "Integers", "date": "2026-09-01", "file": 	"pdfs/mathematics/integers/exercise_1c_solutions.pdf" },
+	{ "title": "Exercise 1D", "subject": "mathematics", "topic": "Integers", "date": "2026-09-01", "file": 	"pdfs/mathematics/integers/exercise_1d_solutions.pdf" },
+	{ "title": "Exercise 1E", "subject": "mathematics", "topic": "Integers", "date": "2026-09-01", "file": 	"pdfs/mathematics/integers/exercise_1e_solutions.pdf" },
+	{ "title": "Exercise 1F", "subject": "mathematics", "topic": "Integers", "date": "2026-09-01", "file": 	"pdfs/mathematics/integers/exercise_1f_solutions.pdf" }
 ]
 }
