@@ -4,7 +4,7 @@
     { "id": "physics", "label": "Physics" },
     { "id": "chemistry", "label": "Chemistry" },
     { "id": "biology", "label": "Biology" },
-    { "id": "history/civics", "label": "History/Civics" },
+    { "id": "history", "label": "History/Civics" },
     { "id": "geography", "label": "Geography" },
     { "id": "english1", "label": "English I" },
     { "id": "english2", "label": "English 2" },
@@ -34,9 +34,23 @@
 	{ "title": "Exercise 2A", "subject": "mathematics", "topic": "Fractions", "date": "2026-09-01", "file": 	"pdfs/mathematics/fractions/exercise_2a_solutions.pdf" },
 	{ "title": "Exercise 2B", "subject": "mathematics", "topic": "Fractions", "date": "2026-09-01", "file": 	"pdfs/mathematics/fractions/exercise_2b_solutions.pdf" },
 	{ "title": "Exercise 2C", "subject": "mathematics", "topic": "Fractions", "date": "2026-09-01", "file": 	"pdfs/mathematics/fractions/exercise_2c_solutions.pdf" },
-	{ "title": "Exercise 2D", "subject": "mathematics", "topic": "Fractions", "date": "2026-09-01", "file": 	"pdfs/mathematics/fractions/exercise_2d_solutions.pdf" }
+	{ "title": "Exercise 2D", "subject": "mathematics", "topic": "Fractions", "date": "2026-09-01", "file": 	"pdfs/mathematics/fractions/exercise_2d_solutions.pdf" },
+	{ "title": "Rise of Christianity CW", "subject": "history", "topic": "Rise of Christianity", "date": "2026-09-01", "file": 	"pdfs/history/rise_of_christianity_CW.pdf" },
+   	{ "title": "Spread of Christianity CW", "subject": "history", "topic": "Spread of Christianity", "date": "2026-09-01", "file": 	"pdfs/history/spread_of_christianity_CW.pdf" },
+	{ "title": "The Delhi Sultanates CW", "subject": "history", "topic": "The Delhi Sultanates", "date": "2026-09-01", "file": 	"pdfs/history/the_delhi_sultanates_CW.pdf" },
+	{ "title": "Our Constitution CW", "subject": "history", "topic": "Our Constitution", "date": "2026-09-01", "file": 	"pdfs/history/our_constitution_CW.pdf" },
+	{ "title": "Rise and Spread of Islam CW", "subject": "history", "topic": "Rise and Spread of Islam", "date": "2026-09-01", "file": 	"pdfs/history/rise_and_spread_of_islam_CW.pdf" },
+
+	{ "title": "Fundemental Rights and Duties CW", "subject": "history", "topic": "Fundemental Rights and Duties", "date": "2026-09-01", "file": 	"pdfs/history/fundemental_rights_and_duties_CW.pdf" },
+	{ "title": "Atmosphere CW", "subject": "geography", "topic": "Atmosphere", "date": "2026-09-01", "file": 	"pdfs/geography/Atmosphere_CW.pdf" },
+	{ "title": "Africa CW", "subject": "geography", "topic": "Africa", "date": "2026-09-01", "file": 	"pdfs/geography/Africa_CW.pdf" },
+	{ "title": "Representation of Geographical Features CW", "subject": "geography", "topic": "Representation of Geographical Features", "date": "2026-09-01", "file": 	"pdfs/geography/geographical_features_CW.pdf" },
+	{ "title": "Plant and Animal Tissues CW", "subject": "biology", "topic": "Plant Animal Tissues CW", "date": "2026-09-01", "file": 	"pdfs/biology/plant_animal_tissues_CW.pdf" },
+	{ "title": "Classification of Plants CW", "subject": "biology", "topic": "Classification of Plants", "date": "2026-09-01", "file": 	"pdfs/biology/classification_plants_CW.pdf" },
+	{ "title": "Sarfaroshi ki Tamanna CW", "subject": "hindi", "topic": "Sarfaroshi ki Tamanna", "date": "2026-09-01", "file": 	"pdfs/hindi/sarfaroshi_ki_tamanna_CW.pdf" },
+	{ "title": "Nadi CW", "subject": "hindi", "topic": "Nadi", "date": "2026-09-01", "file": 	"pdfs/hindi/nadi_CW.pdf" }
+
 
 	
 ]
 }
-
