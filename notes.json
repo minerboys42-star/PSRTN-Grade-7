@@ -51,7 +51,9 @@
 
 
 	{ "title": "English I CW", "subject": "english1", "topic": "English I CW", "date": "2026-09-01", "file": 	"pdfs/English/English1.pdf" },
-	{ "title": "English I CW", "subject": "english2", "topic": "yah mera yah meet ka", "date": "2026-09-01", "file": 	"pdfs/English/English2.pdf" },
+	{ "title": "English II CW", "subject": "english2", "topic": "English2 CW part1", "date": "2026-09-01", "file": 	"pdfs/English/English2_part1.pdf" },
+	{ "title": "English II CW", "subject": "english2", "topic": "English2 CW part2", "date": "2026-09-01", "file": 	"pdfs/English/English2_part2.pdf" },
+
 
 	{ "title": "Fundemental Rights and Duties CW", "subject": "history", "topic": "Fundemental Rights and Duties", "date": "2026-09-01", "file": 	"pdfs/history/fundemental_rights_and_duties_CW.pdf" },
 	{ "title": "Atmosphere CW", "subject": "geography", "topic": "Atmosphere", "date": "2026-09-01", "file": 	"pdfs/geography/Atmosphere_CW.pdf" },
