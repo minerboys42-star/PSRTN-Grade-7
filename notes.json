@@ -54,6 +54,8 @@
 	{ "title": "English II CW", "subject": "english2", "topic": "English2 CW part1", "date": "2026-09-01", "file": 	"pdfs/English/English2_part1.pdf" },
 	{ "title": "English II CW", "subject": "english2", "topic": "English2 CW part2", "date": "2026-09-01", "file": 	"pdfs/English/English2_part2.pdf" },
 
+	{ "title": "Physics CW", "subject": "physics", "topic": "Physics CW part1", "date": "2026-09-01", "file": 	"pdfs/physics/Physics_1.pdf" },
+	{ "title": "Physics CW", "subject": "physics", "topic": "Physics CW part2", "date": "2026-09-01", "file": 	"pdfs/physics/Physics_2.pdf" },
 
 	{ "title": "Fundemental Rights and Duties CW", "subject": "history", "topic": "Fundemental Rights and Duties", "date": "2026-09-01", "file": 	"pdfs/history/fundemental_rights_and_duties_CW.pdf" },
 	{ "title": "Atmosphere CW", "subject": "geography", "topic": "Atmosphere", "date": "2026-09-01", "file": 	"pdfs/geography/Atmosphere_CW.pdf" },
