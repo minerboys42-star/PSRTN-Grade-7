@@ -12,85 +12,8 @@
     { "id": "kannada", "label": "Kannada" }
   ],
   "notes": [
-	{ "title": "Exercise 9A", "subject": "mathematics", "topic": "Percentages", "date": "2026-09-01", "file": 	"pdfs/mathematics/percentages/exercise-9a.pdf" },
-	{ "title": "Exercise 9B", "subject": "mathematics", "topic": "Percentages", "date": "2026-09-01", "file": 	"pdfs/mathematics/percentages/exercise-9b.pdf" },
-	{ "title": "Exercise 9C", "subject": "mathematics", "topic": "Percentages", "date": "2026-09-01", "file": 	"pdfs/mathematics/percentages/exercise-9c.pdf" },
-	{ "title": "Exercise 1A", "subject": "mathematics", "topic": "Integers", "date": "2026-09-01", "file": 	"pdfs/mathematics/integers/exercise_1a_solutions.pdf" },
-	{ "title": "Exercise 1B", "subject": "mathematics", "topic": "Integers", "date": "2026-09-01", "file": 	"pdfs/mathematics/integers/exercise_1b_solutions.pdf" },
-	{ "title": "Exercise 1C", "subject": "mathematics", "topic": "Integers", "date": "2026-09-01", "file": 	"pdfs/mathematics/integers/exercise_1c_solutions.pdf" },
-	{ "title": "Exercise 1D", "subject": "mathematics", "topic": "Integers", "date": "2026-09-01", "file": 	"pdfs/mathematics/integers/exercise_1d_solutions.pdf" },
-	{ "title": "Exercise 1E", "subject": "mathematics", "topic": "Integers", "date": "2026-09-01", "file": 	"pdfs/mathematics/integers/exercise_1e_solutions.pdf" },
-	{ "title": "Exercise 1F", "subject": "mathematics", "topic": "Integers", "date": "2026-09-01", "file": 	"pdfs/mathematics/integers/exercise_1f_solutions.pdf" },
-	{ "title": "Exercise 13A", "subject": "mathematics", "topic": "Algebaric Expressions", "date": "2026-09-01", "file": 	"pdfs/mathematics/algebraic_expressions/exercise-13a-solutions.pdf" },
-	{ "title": "Exercise 13B", "subject": "mathematics", "topic": "Algebaric Expressions", "date": "2026-09-01", "file": 	"pdfs/mathematics/algebraic_expressions/exercise-13b-solutions.pdf" },
-	{ "title": "Exercise 13C", "subject": "mathematics", "topic": "Algebaric Expressions", "date": "2026-09-01", "file": 	"pdfs/mathematics/algebraic_expressions/exercise-13c-solutions.pdf" },
-	{ "title": "Exercise 3A", "subject": "mathematics", "topic": "Decimals", "date": "2026-09-01", "file": 	"pdfs/mathematics/decimals/exercise_3a_solutions.pdf" },
-	{ "title": "Exercise 3B", "subject": "mathematics", "topic": "Decimals", "date": "2026-09-01", "file": 	"pdfs/mathematics/decimals/exercise_3b_solutions.pdf" },
-	{ "title": "Exercise 3C", "subject": "mathematics", "topic": "Decimals", "date": "2026-09-01", "file": 	"pdfs/mathematics/decimals/exercise_3c_solutions.pdf" },
-	{ "title": "Exercise 3D", "subject": "mathematics", "topic": "Decimals", "date": "2026-09-01", "file": 	"pdfs/mathematics/decimals/exercise_3d_solutions.pdf" },
-	{ "title": "Exercise 3E", "subject": "mathematics", "topic": "Decimals", "date": "2026-09-01", "file": 	"pdfs/mathematics/decimals/exercise_3e_solutions.pdf" },
-	{ "title": "Exercise 5B", "subject": "mathematics", "topic": "Exponents", "date": "2026-09-01", "file": 	"pdfs/mathematics/exponents/solutions_5b_exponents.pdf" },
-	{ "title": "Exercise 2A", "subject": "mathematics", "topic": "Fractions", "date": "2026-09-01", "file": 	"pdfs/mathematics/fractions/exercise_2a_solutions.pdf" },
-	{ "title": "Exercise 2B", "subject": "mathematics", "topic": "Fractions", "date": "2026-09-01", "file": 	"pdfs/mathematics/fractions/exercise_2b_solutions.pdf" },
-	{ "title": "Exercise 2C", "subject": "mathematics", "topic": "Fractions", "date": "2026-09-01", "file": 	"pdfs/mathematics/fractions/exercise_2c_solutions.pdf" },
-	{ "title": "Exercise 2D", "subject": "mathematics", "topic": "Fractions", "date": "2026-09-01", "file": 	"pdfs/mathematics/fractions/exercise_2d_solutions.pdf" },
-	{ "title": "Rise of Christianity CW", "subject": "history", "topic": "Rise of Christianity", "date": "2026-09-01", "file": 	"pdfs/history/rise_of_christianity_CW.pdf" },
-   	{ "title": "Spread of Christianity CW", "subject": "history", "topic": "Spread of Christianity", "date": "2026-09-01", "file": 	"pdfs/history/spread_of_christianity_CW.pdf" },
-	{ "title": "The Delhi Sultanates CW", "subject": "history", "topic": "The Delhi Sultanates", "date": "2026-09-01", "file": 	"pdfs/history/the_delhi_sultanates_CW.pdf" },
-	{ "title": "Our Constitution CW", "subject": "history", "topic": "Our Constitution", "date": "2026-09-01", "file": 	"pdfs/history/our_constitution_CW.pdf" },
-	{ "title": "Rise and Spread of Islam CW", "subject": "history", "topic": "Rise and Spread of Islam", "date": "2026-09-01", "file": 	"pdfs/history/rise_and_spread_of_islam_CW.pdf" },
-	{ "title": "Exponents Worksheet 1", "subject": "mathematics", "topic": "Worksheets", "date": "2026-09-01", "file": 	"pdfs/mathematics/worksheets/exponents_worksheet_1.pdf" },
-	{ "title": "Exponents Worksheet 2", "subject": "mathematics", "topic": "Worksheets", "date": "2026-09-01", "file": 	"pdfs/mathematics/worksheets/exponents_worksheet_2.pdf" },
-        { "title": "Integers Worksheet 1", "subject": "mathematics", "topic": "Worksheets", "date": "2026-09-01", "file": 	"pdfs/mathematics/worksheets/integers_worksheet_1.pdf" },
-
-        { "title": "Integers Worksheet Intermediate 1", "subject": "mathematics", "topic": "Worksheets", "date": "2026-09-01", "file": 	"pdfs/mathematics/worksheets/integers_intermediate_worksheet1.pdf" },
-        { "title": "Integers Worksheet 2", "subject": "mathematics", "topic": "Worksheets", "date": "2026-09-01", "file": 	"pdfs/mathematics/worksheets/integers_worksheet2.pdf" },
-        { "title": "Integers Worksheet Intermediate 2", "subject": "mathematics", "topic": "Worksheets", "date": "2026-09-01", "file": 	"pdfs/mathematics/worksheets/integers_worksheet2_intermediate.pdf" },
-        { "title": "Percentage Worksheet Beginner 2", "subject": "mathematics", "topic": "Worksheets", "date": "2026-09-01", "file": 	"pdfs/mathematics/worksheets/beginner-percentage-worksheet.pdf" },
-        { "title": "Algebraic Expressions Worksheet Beginner 1", "subject": "mathematics", "topic": "Worksheets", "date": "2026-09-01", "file": 	"pdfs/beginner-algebra-worksheet.pdf" },
-        { "title": "Algebraic Quick Revision Guide", "subject": "mathematics", "topic": "Algebaric Expressions", "date": "2026-09-01", "file": 	"pdfs/mathematics/worksheets/quick-revision-guide-algebra.pdf" },
-        { "title": "Algebraic Expressions Worksheet Intermediate", "subject": "mathematics", "topic": "Worksheets", "date": "2026-09-01", "file": 	"pdfs/mathematics/worksheets/intermediate-algebra-worksheet.pdf" },
-
-
-	{ "title": "English I CW", "subject": "english1", "topic": "English I CW", "date": "2026-09-01", "file": 	"pdfs/English/English1.pdf" },
-	{ "title": "English II CW", "subject": "english2", "topic": "English2 CW part1", "date": "2026-09-01", "file": 	"pdfs/English/English2_part1.pdf" },
-	{ "title": "English II CW", "subject": "english2", "topic": "English2 CW part2", "date": "2026-09-01", "file": 	"pdfs/English/English2_part2.pdf" },
-
-	{ "title": "Physics CW", "subject": "physics", "topic": "Physics CW part1", "date": "2026-09-01", "file": 	"pdfs/physics/Physics_1.pdf" },
-	{ "title": "Physics CW", "subject": "physics", "topic": "Physics CW part2", "date": "2026-09-01", "file": 	"pdfs/physics/Physics_2.pdf" },
-
-	{ "title": "Fundemental Rights and Duties CW", "subject": "history", "topic": "Fundemental Rights and Duties", "date": "2026-09-01", "file": 	"pdfs/history/fundemental_rights_and_duties_CW.pdf" },
-	{ "title": "Atmosphere CW", "subject": "geography", "topic": "Atmosphere", "date": "2026-09-01", "file": 	"pdfs/geography/Atmosphere_CW.pdf" },
-	{ "title": "Africa CW", "subject": "geography", "topic": "Africa", "date": "2026-09-01", "file": 	"pdfs/geography/Africa_CW.pdf" },
-	{ "title": "Africa Rivers Map", "subject": "geography", "topic": "Africa", "date": "2026-09-01", "file": 	"pdfs/geography/Major_Rivers_of_Africa.png" },
-	{ "title": "Africa Plains and Deserts Map", "subject": "geography", "topic": "Africa", "date": "2026-09-01", "file": 	"pdfs/geography/Africa_s_Physical_Landscape_Overview.png" },
-	{ "title": "Africa Mountains and Highlands Map", "subject": "geography", "topic": "Africa", "date": "2026-09-01", "file": 	"pdfs/geography/Mapping_Africa_s_High_Points.png" },
-	{ "title": "Africa Quiz", "subject": "geography", "topic": "Africa", "date": "2026-09-01", "file": 	"pdfs/geography/africa_physical_features_quiz.pdf" },
-	{ "title": "Africa Summary", "subject": "geography", "topic": "Africa", "date": "2026-09-01", "file": 	"pdfs/geography/africa_revision_summary.pdf" },
-
-	  
-	{ "title": "Representation of Geographical Features CW", "subject": "geography", "topic": "Representation of Geographical Features", "date": "2026-09-01", "file": 	"pdfs/geography/geographical_features_CW.pdf" },
-	{ "title": "Plant and Animal Tissues CW", "subject": "biology", "topic": "Plant Animal Tissues CW", "date": "2026-09-01", "file": 	"pdfs/biology/plant_animal_tissues_CW.pdf" },
-	{ "title": "Classification of Plants CW", "subject": "biology", "topic": "Classification of Plants", "date": "2026-09-01", "file": 	"pdfs/biology/classification_plants_CW.pdf" },
-	{ "title": "Photosynthesis and Respitation Solution", "subject": "biology", "topic": "Photosynthesis and Respitation", "date": "2026-09-01", "file": 	"pdfs/biology/plant_respiration_solutions.pdf" },
-
-	{ "title": "Sarfaroshi ki Tamanna CW", "subject": "hindi", "topic": "Sarfaroshi ki Tamanna", "date": "2026-09-01", "file": 	"pdfs/hindi/sarfaroshi_ki_tamanna_CW.pdf" },
-	{ "title": "Nadi CW", "subject": "hindi", "topic": "Nadi", "date": "2026-09-01", "file": 	"pdfs/hindi/nadi_CW.pdf" },
-    { "title": "vilom CW", "subject": "hindi", "topic": "vilom", "date": "2026-09-01", "file": 	"pdfs/hindi/vilom.pdf" },
-	{ "title": "upsarg CW", "subject": "hindi", "topic": "upsarg", "date": "2026-09-01", "file": 	"pdfs/hindi/upsarg.pdf" },
-	{ "title": "pratyaya CW", "subject": "hindi", "topic": "pratyaya", "date": "2026-09-01", "file": 	"pdfs/hindi/pratyaya.pdf" },
-	{ "title": "paryayavachi CW", "subject": "hindi", "topic": "paryayavachi", "date": "2026-09-01", "file": 	"pdfs/hindi/paryayavachi.pdf" },
-	{ "title": "Nishtur_Anukampa CW", "subject": "hindi", "topic": "Nishtur_Anukampa", "date": "2026-09-01", "file": 	"pdfs/hindi/Nishtur_Anukampa_CW.pdf" },
-	{ "title": "Yah mera yah meet ka CW", "subject": "hindi", "topic": "yah mera yah meet ka", "date": "2026-09-01", "file": 	"pdfs/hindi/yah_mera_yah _meet_ka_CW.pdf" },
-	{ "title": "Leek par ve chalien CW", "subject": "hindi", "topic": "yah mera yah meet ka", "date": "2026-09-01", "file": 	"pdfs/hindi/leek_par_chalien.pdf" },
-
-	{ "title": "Mitrara Samagama CW", "subject": "kannada", "topic": "kannada CW", "date": "2026-09-01", "file": 	"pdfs/kannada/Birbal.pdf" },
-  
-	{ "title": "Kannada CW", "subject": "kannada", "topic": "kannada CW", "date": "2026-09-01", "file": 	"pdfs/kannada/kannada _7_CW.pdf" },
-	{ "title": "Anna Daata CW", "subject": "kannada", "topic": "Anna Daata", "date": "2026-09-01", "file": 	"pdfs/kannada/anna_daata_CW.pdf" },
-
-	{ "title": "Chemistry all topic CW", "subject": "chemistry", "topic": "Class Work", "date": "2026-09-01", "file": 	"pdfs/chemistry/chemistry_CW.pdf" }
-
+	
+{ "title": " Danachintamani Attimabbe CW", "subject": "kannada", "topic": "Danachintamani Attimabbe", "date": "2026-11-22", "file": 	"pdfs/kannada/Attimabbe.pdf" }
 
 	
 ]
